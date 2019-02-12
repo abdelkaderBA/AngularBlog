@@ -1,0 +1,15 @@
+button {
+	font-weight: 700;
+}
+
+.hearts {
+	font-size: 2em;
+}
+
+.love-its {
+	font-size: 1.7em;
+}
+
+.hearts, .love-its {
+	vertical-align: middle;
+}
